@@ -14,7 +14,7 @@ I took the idea that Alex did in his php tutorial [Powerful And Easy Configurati
 ## How to Use:
 
 Just create a simple configuration file with PHP
-```
+```php
 <?php
 
 return [
@@ -31,7 +31,7 @@ return [
 ```
 
 ..or JSON.
-```
+```json
 {
 	"db": {
 		"host": {
@@ -47,7 +47,7 @@ return [
 
 ..and use Config.php like so:
 
-```
+```php
 <?php
 
 require 'Config.php';
