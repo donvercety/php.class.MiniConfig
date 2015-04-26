@@ -7,9 +7,9 @@ Code inspired by [phpacademy](http://phpacademy.org)
 
 Special thanks to Alex for the great tutorials.
 
-There is always a good idea to have a separate configuration file for your php project, but not always maintaining it is so easy as it is with this simple, but very powerful PHP class.
+There is always a good idea to have a separate configuration file for your php project, but not always maintaining it is so easy, as it is with this simple, but very powerful PHP class.
 
-I took the idea that Alex did in his php tutorial [Powerful And Easy Configuration with PHP](https://youtu.be/qyKt4NF_82g), and extended it a little bit so it can support also JSON files.
+I took the idea that Alex did in his php tutorial [Powerful And Easy Configuration with PHP](https://youtu.be/qyKt4NF_82g), and extended it a little bit so it can also support JSON files.
 
 ## How to Use:
 
